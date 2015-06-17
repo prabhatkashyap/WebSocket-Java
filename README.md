@@ -10,4 +10,4 @@ You won't need any other external plugin to run this app except above mentioned 
 
 Add code into it to make it look and work like real life chat application like Hangout or Facebook Messanger.
 
-> If you want to develop websocket application for legacy browsers too then use [SockJS]: https://github.com/sockjs/sockjs-client.
+> If you want to develop websocket application for legacy browsers too then use [SockJS](https://github.com/sockjs/sockjs-client).
